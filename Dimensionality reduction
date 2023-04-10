@@ -1,0 +1,14 @@
+What is dimensionality?  
+To make it easy, let me take an example of a college students who is choosing courses for next semester, what attributes of courses might he consider?  
+1. Content - whether this course is beneficial to his career path  
+2. Workload - How much time he would put  
+That's the foundamental two dimension decision model, every animal's behavior is based on cost and benefit.
+That's easy, but if he make ascending dimension:  
+1.1 Professor score  
+1.2 Syllabus  
+1.3 relenvance to interest  
+1.4 graduation requirement  
+2.1 how many hours needed to spend per week  
+2.2 schedule conflict  
+2.3 difficulty  
+2.4 onsite/online, commute time  
