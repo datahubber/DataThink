@@ -1,0 +1,12 @@
+How to use Bayes in life?  
+I need to choose a high level data science course, but want to know who is the instructor.  
+The information are as following:  
+1. There are three professors teaching data science courses on this campus in this semester.  
+2. Professor has experience in high level courses, B and C only have experience in low level courses.  
+3. A already have 3 other courses, B and C only have one other courses individually.
+4. A, B and C don't have time conflict with other courses.  
+So, to calculate the probability of A, B and C will teach this course, the constraint of A is does he have so much time to teach 4 courses in one semester?
+Constraint of B and C is can they teach high level courses?  
+Speculate the probability of A, B and C individually, the probability is if they be asked to teach course, whether they will agree. Maybe A is 60%, B and C are 0%.    
+So, this course has 50% chance be taught by A, 25% chance by B or C.  
+But, if school has 20% chance to get another professor D to teach this course, A would be 40%, B and C would be 20%.
