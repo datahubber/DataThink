@@ -6,7 +6,7 @@ Accurate data do not lie (inaccuracy stems from the subjectivity of the statisti
 But one-sided (inaccurate) data can easily mislead to false conclusions.  
 When comparing the all-age(figure1) and 45+(figure2) HIV rates by county, it is easy to conclude that "older people have more life experience and therefore have higher rates of disease".  
 ```
-make q1
+make figure1
 ```
 
 <img src="figs/Figure_1.jpeg">
