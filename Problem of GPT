@@ -1,0 +1,2 @@
+ChatGPT's generation principle is based on weights/probabilities/temperatures between 175 billion tokens, so it's not easy to see obvious errors when generating answers with high information entropy and vagueness, like human language; but it's easy to see that it's spouting nonsense when it's used to get answers that require precision, like doing math.  
+Wolfram alpha principle is symbolically Structured data, and works better than GPT on problems that require precision
