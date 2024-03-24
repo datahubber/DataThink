@@ -5,7 +5,7 @@
 4. 2023.6 Handbook on macroeconomic data analysis - Qilin Li  
 5. 2023.7 What Is ChatGPT Doing … and Why Does It Work? - Stephen Wolfram  
 6. 2023.8 Machine Learning - Zhihua Zhou
-Reading:
+   Reading:
 1. The Kaggle Book Data analysis and machine learning for competitive data science
 2. Ace the Data Science Interview - Nick Singh
 
