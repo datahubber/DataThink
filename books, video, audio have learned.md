@@ -19,3 +19,4 @@
 
 Notes:
 1. Investigate the data before put them into training, keep data I.I.D. Clean noise.
+2. Before looking at data, figure out the problem and what data are needed to make money, then dig into data and model.
