@@ -7,14 +7,17 @@
 6. 2023.8 Machine Learning - Zhihua Zhou
 7. 2024.4 The Kaggle Book Data analysis and machine learning for competitive data science
 8. (ongoing, read chapter 1-4, 10-11)Ace the Data Science Interview - Nick Singh
+9. (ongoing) Approching (Almost) All Machine Learning Problems - Abhishek Thakur 
 
 ###Video
 1. Machine Learning - Andrew Ng  
-2. Statquest - Youtube  
+2. Statquest - Youtube
+3. 课代表立正 - Youtube
+4. Emma Ding - Youtube   
 
 ###Audio
-1. Machine Learning Guide - OCDevel  
-2. Introduction to Machine Learning/Artificial Intelligence - Himalayas FM  
+1. 2023.3 Machine Learning Guide - OCDevel  
+2. 2023.7 Introduction to Machine Learning/Artificial Intelligence - Himalayas FM  
 
 
 Notes:
