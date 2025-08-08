@@ -8,7 +8,7 @@
 7. 2024.4 The Kaggle Book Data analysis and machine learning for competitive data science
 8. 2024.5 Approching (Almost) All Machine Learning Problems - Abhishek Thakur 
 9. (ongoing, read chapter 1-7, 10-11)Ace the Data Science Interview - Nick Singh
-10. 2025.6 P74 Designing Machine Learning Systems
+10. 2025.8 Designing Machine Learning Systems
 
 ###Video
 1. Machine Learning - Andrew Ng  
