@@ -9,6 +9,7 @@
 8. 2024.5 Approching (Almost) All Machine Learning Problems - Abhishek Thakur 
 9. 2025.8 Ace the Data Science Interview - Nick Singh
 10. 2025.8 Designing Machine Learning Systems - Chip Huyen
+11. 2025.9 (In progress) Hello Algorithm P98
 
 ###Video
 1. Machine Learning - Andrew Ng  
